@@ -32,8 +32,12 @@
 
 #### 硬件
 
+[外壳图纸](https://github.com/ccat0663/h65_ty_pet_power/blob/main/file/%E5%A4%96%E5%A3%B3.dxf)
+
 ![实物图](https://github.com/ccat0663/h65_ty_pet_power/blob/main/file/%E5%AE%9E%E7%89%A9%E5%9B%BE.png)
 
 ![PCB图](https://github.com/ccat0663/h65_ty_pet_power/blob/main/file/PCB%E5%9B%BE.png)
+
+![配套外壳](https://github.com/ccat0663/h65_ty_pet_power/blob/main/file/%E5%A4%96%E5%A3%B3.png)
 
 
